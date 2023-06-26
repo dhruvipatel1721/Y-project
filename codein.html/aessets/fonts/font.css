@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Mulish';
+    src: url('../fonts/Mulish-ExtraLightItalic.eot');
+    src: url('Mulish-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Mulish-ExtraLightItalic.woff2') format('woff2'),
+        url('Mulish-ExtraLightItalic.woff') format('woff'),
+        url('Mulish-ExtraLightItalic.ttf') format('truetype'),
+        url('Mulish-ExtraLightItalic.svg#Mulish-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
